@@ -1,2 +1,2 @@
-pycryptodome
-flask
+python -m pip install pycryptodome
+python -m pip install flask
